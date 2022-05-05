@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/redux-todo/static/css/main.189f8166.css",
+    "main.js": "/redux-todo/static/js/main.61f05aa3.js",
+    "static/js/787.63e47474.chunk.js": "/redux-todo/static/js/787.63e47474.chunk.js",
+    "index.html": "/redux-todo/index.html",
+    "main.189f8166.css.map": "/redux-todo/static/css/main.189f8166.css.map",
+    "main.61f05aa3.js.map": "/redux-todo/static/js/main.61f05aa3.js.map",
+    "787.63e47474.chunk.js.map": "/redux-todo/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.189f8166.css",
+    "static/js/main.61f05aa3.js"
+  ]
+}
